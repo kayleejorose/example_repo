@@ -1,10 +1,9 @@
 # example_repo
 Example for Github skills exchange 
 
-This is the example read me 
-We are using these changes to figure out branches 
+This is the read me 
+change change change
 
-Adding personal information: Kaylee Rosenberger
-The Morton Arboretum
-hello
+Add your name here: 
+Kaylee 
 
