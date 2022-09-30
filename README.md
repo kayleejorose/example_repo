@@ -5,7 +5,7 @@ This is the read me
 change change change
 
 Add your name here:
-Kaylee
+Jo
 Austin
 Emily B
 ************************
