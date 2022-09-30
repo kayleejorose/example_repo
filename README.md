@@ -8,4 +8,4 @@ Add your name here:
 Kaylee
 Austin
 Emily B
-************************
+Emily S
